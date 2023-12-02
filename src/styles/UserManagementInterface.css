@@ -74,7 +74,7 @@
 }
 
 .pagination button.active {
-  background-color: #daf379; /* Task 1: Brighter color */
+  background-color: rgb(121, 231, 243); /* Task 1: Brighter color */
 }
 
 .pagination button.disabled {
@@ -83,7 +83,7 @@
 }
 
 .pagination button:hover {
-  background-color: #daf379; /* Task 1: Hover effect */
+  background-color: rgb(121, 231, 243); /* Task 1: Hover effect */
 }
 
 /* Delete selected button styles */
